@@ -1,2 +1,2 @@
-# Sockets-Sockets-in-C-
+# Sockets
 Socket Programming in different languages
